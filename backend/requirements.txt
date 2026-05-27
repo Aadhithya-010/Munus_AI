@@ -8,7 +8,6 @@ async-timeout==4.0.3
 attrs==26.1.0
 av==15.1.0
 bcrypt==4.0.1
-build==1.4.4
 certifi==2026.5.20
 charset-normalizer==3.4.7
 chromadb==1.5.9
@@ -67,7 +66,6 @@ oauthlib==3.3.1
 onnxruntime==1.19.2
 orjson==3.11.5
 overrides==7.7.0
-packaging==23.2
 passlib==1.7.4
 pillow==11.3.0
 propcache==0.4.1
